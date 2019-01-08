@@ -134,13 +134,10 @@ body{
 	padding-right: 5px;
 }
 .img_des{
-	text-align: center; 
+	text-align: center;
 	padding-bottom: 10px;
 	padding-left: 10px;
 	padding-right: 10px;
-}
-#footer_container{
-	bottom: 0;
 }
 #social{
 	background-color: white;
